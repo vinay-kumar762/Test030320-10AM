@@ -1,0 +1,96 @@
+git clone https://github.com/vinay-kumar762/Test030220.git
+ls
+ls  Test030220/
+cd Test030220/
+ls
+touch 0302.txt
+ls
+0302.txt
+git status
+git branch
+git add 0302.txt
+git commit -m "first file"
+git config --global user.email "vinayqae05@gmail.com"
+git config --global user.name "vinay-kumar762"
+git push -u origin master
+123456
+git push -u origin master
+ll
+git status
+git commit
+git commit -m "first file"
+git push -u origin master
+history
+git log
+
+============================================================================================
+
+ 1  git clone https://github.com/vinay-kumar762/Test030220.git
+    2  ls
+    3  ls  Test030220/
+    4  cd Test030220/
+    5  ls
+    6  touch 0302.txt
+    7  ls
+    8  vi 0302.txt
+    9  git status
+   10  git branch
+   11  git add 0302.txt
+   12  git commit -m "first file"
+   13  git config --global user.email "vinayqae05@gmail.com"
+   14  git config --global user.name "vinay-kumar762"
+   15  git push -u origin master
+   16  123456
+   17  git push -u origin master
+   18  ll
+   19  git status
+   20  git commit
+   21  git commit -m "first file"
+   22  git push -u origin master
+   23  history
+   24  git log
+   25  exit
+   26  git clone https://github.com/vinay-kumar762/jenkins-.git
+   27  cd vinay-kumar762
+   28  ls
+   29  cd jenkins-/
+   30  git branch
+   31  git checkout -b A1
+   32  git branch
+   33  touch A.txt
+   34  vi A.txt
+   35  git status
+   36  git add A.txt
+   37  git commit -m
+   38  git commit -m "A1 file added"
+   39  git push -u origin A1
+   40  git branch
+   41  git checkout master
+   42  git branch
+   43  ls
+   44  git checkout A1
+   45  git branch
+   46  ls
+   47  git merge A1 master
+   48  git checkout master
+   49  ls
+   50  git merge A1
+   51  ls
+   52  git status
+   53  git push origin master
+   54  history
+
+...........
+
+Checkout act of switching between different version of a target entity. Checkout operates file,commit and branches. 
+
+:wq
+
+B
+B
+
+C
+C
+C
+
+
